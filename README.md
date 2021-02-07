@@ -35,4 +35,9 @@
 <img src="img/swagger2.PNG">
 <img src="img/swagger3.PNG">
 <img src="img/swagger4.PNG">
-
+<h3>REST webszolgáltatások - Postman</h3>
+<img src="img/postman1.PNG">
+<img src="img/postman2.PNG">
+<img src="img/postman3.PNG">
+<img src="img/postman4.PNG">
+<img src="img/postman5.PNG">
