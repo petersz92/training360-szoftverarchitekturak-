@@ -41,3 +41,8 @@
 <img src="img/postman3.PNG">
 <img src="img/postman4.PNG">
 <img src="img/postman5.PNG">
+<h3>Szerver alkalmazás webszolgáltatás interfesszel</h3>
+<img src="img/soap1.PNG">
+<img src="img/soap2.PNG">
+<img src="img/soap3.PNG">
+<img src="img/soap4.PNG">
